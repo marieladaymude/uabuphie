@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ietoshohl.tripsandticks.net/sitemap.xml
